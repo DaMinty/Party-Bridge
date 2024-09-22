@@ -2,10 +2,11 @@
 
 ## REQUREMENTS:
 - [python](https://www.python.org/downloads/)
-- python (Flask): pip install flask
+- [Python: Flask](https://www.python.org/downloads/)
 - [Chattriggers](https://discord.gg/chattriggers)
 - [Chattriggers: RequestV2](https://www.chattriggers.com/modules/v/requestV2)
 - [Curseforge](https://www.curseforge.com)
+- 2 Minecraft Accounts
 
 
 ## HOW TO INSTALL:
