@@ -1,0 +1,8 @@
+{
+    "name": "PartyBridge",
+    "creator": "@Da_Minty",
+    "description": "Party Chat Bridge sends messages through party chat from an alt account if your main is muted",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": ["requestV2"]
+  }
