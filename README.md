@@ -2,7 +2,7 @@
 
 ## REQUREMENTS:
 - [Python](https://www.python.org/downloads/)
-- [Python: Flask](https://www.python.org/downloads/)
+- [Python: Flask](https://pypi.org/project/Flask/)
 - [Chattriggers](https://discord.gg/chattriggers)
 - [Chattriggers: RequestV2](https://www.chattriggers.com/modules/v/requestV2)
 - [Curseforge](https://www.curseforge.com)
