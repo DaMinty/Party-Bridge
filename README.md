@@ -10,6 +10,7 @@
 
 
 ## HOW TO INSTALL:
+[Youtube Tutorial](https://youtu.be/8b1ru5_xmD8)
 1. Download the files attached
 2. Extract the files
 3. Download curseforge. You will need this to open 2 minecraft instances at once.
